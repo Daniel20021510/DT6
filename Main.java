@@ -3,7 +3,7 @@ class Main{
         System.out.print("Это добавлено в ветке main"); }
 
     public static void func() {
-        System.out.print("Это добавлено в ветке main func"); }
+        System.out.print("Это добавлено в ветке main func");
         System.out.print("Это добавлено в ветке dev"); }
 
     public static void func1() {
