@@ -10,4 +10,7 @@ class Main{
 
     public static void func3() {
         System.out.print("Это добавлено в ветке dev func 3"); }
+
+    public static void func4() {
+        System.out.print("Это добавлено в ветке dev func 4"); }
 }
